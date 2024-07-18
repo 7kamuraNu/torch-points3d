@@ -126,7 +126,7 @@ torch-geometric==2.3.1; python_version >= "3.6"
 torch-points-kernels==0.7.1
 torch-scatter==2.0.8; python_version >= "3.6"
 torch-sparse==0.6.12; python_version >= "3.6"
-torch==1.8.1; python_full_version >= "3.6.2"
+torch==1.12.1; python_full_version >= "3.6.2"
 torchfile==0.1.0
 torchnet==0.0.4
 torchvision==0.9.1; python_version >= "3.0"
